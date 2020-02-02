@@ -5,6 +5,7 @@
     <div class="row">
         <h3>Add New Post</h3>
     </div>
+    
     <div class="border-top my-3"></div>
 
     <form action="/post" enctype="multipart/form-data" method="POST">
